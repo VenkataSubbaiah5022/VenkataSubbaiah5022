@@ -1,236 +1,306 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     Aitha Venkata Subbaiah · GitHub Profile
+     Full Stack Engineer · IoT · Real-time · AI-augmented development
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:3b82f6&height=180&section=header&text=Aitha%20Venkata%20Subbaiah&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20SaaS%20%26%20IoT%20Systems&descAlignY=55&descSize=16" width="100%" alt="Header banner" />
-
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+%26+AI-powered+products;19%2B+microservices+%7C+20%2B+production+APIs;70%25+downtime+reduction+in+production;Open+to+Full-Stack+Engineering+Roles" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=Build+%E2%86%92+Ship+%E2%86%92+Iterate.;Production+systems+that+scale." alt="Build Ship Iterate" />
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-venkata--fullstack.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://venkata-fullstack.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aitha-venkata-subbaiah-setty/)
+<img src="https://komarev.com/ghpvc/?username=VenkataSubbaiah5022&label=profile+views&color=6366f1&style=for-the-badge" alt="Profile views" />
+
+</div>
+
+<!-- ─── Identity Bento ─────────────────────────────────────────────────────── -->
+
+<table>
+<tr>
+<td width="220" align="center" valign="top">
+
+<img src="https://github.com/VenkataSubbaiah5022.png" width="200" alt="Aitha Venkata Subbaiah" />
+
+<br />
+
+**Aitha Venkata Subbaiah**  
+*Full Stack Engineer*
+
+<br />
+
+🟢 Available · Remote-first  
+📍 Hyderabad, India
+
+<br />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://venkata-fullstack.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-6366f1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://venkata-fullstack.vercel.app/resume.pdf)
+
+</td>
+<td valign="top">
+
+```yaml
+whoami:   Aitha Venkata Subbaiah
+role:     Full Stack Engineer
+focus:    Scalable backends · Real-time systems · AI products
+
+currently @ Stratosfy (Remote · Ottawa, CA)
+  ├─ 19+ Node.js / TypeScript microservices
+  ├─ 20+ REST APIs · telemetry ingestion pipelines
+  ├─ Genius IoT dashboards · mobile app deployments
+  └─ 80%+ Jest coverage · GitHub Actions CI/CD
+
+previously:
+  ├─ Backend Intern @ R K Microns — AI defect detection (+35% accuracy)
+  └─ CS Expert @ Chegg — 500+ queries (DSA · DBMS · OS · SQL)
+
+education:  B.Tech CSE (Business Systems) · RGMCET · CGPA 8.01
+published:  Jarvis AI Assistant — Zenodo (2025)
+open_to:    Full-time · Remote · Bangalore · Contract
+```
+
+</td>
+</tr>
+</table>
+
+<!-- ─── Impact Metrics ─────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+| `19+` | `20+` | `70%` | `80%` | `1.5yr` | `500+` |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Microservices** | **Production APIs** | **Downtime Cut** | **Test Coverage** | **Experience** | **CS Queries** |
+| shipped to prod | telemetry & ops | via data modelling | Jest + CI/CD | IoT · SaaS · Real-time | Chegg expert |
+
+</div>
+
+<br />
+
+<!-- ─── System Architecture (unique to your work) ──────────────────────────── -->
+
+### ⚡ What I build at scale
+
+```mermaid
+flowchart LR
+    subgraph Edge["IoT Edge"]
+        D[Smart Sensors]
+        M[Mobile Apps]
+    end
+
+    subgraph Platform["Stratosfy Platform"]
+        T[Telemetry Ingestion]
+        MS["19+ Microservices<br/>Node.js · TypeScript"]
+        API["20+ REST APIs"]
+        DB[(MongoDB · Redis)]
+        DASH[Genius Dashboards]
+    end
+
+    subgraph DevOps["Reliability"]
+        CI[GitHub Actions]
+        JEST[Jest 80%+]
+        GCP[GCP · Docker]
+    end
+
+    D --> T
+    M --> API
+    T --> MS
+    MS --> API
+    API --> DB
+    MS --> DASH
+    MS --> CI
+    CI --> JEST
+    MS --> GCP
+
+    style MS fill:#6366f1,stroke:#818cf8,color:#fff
+    style API fill:#8b5cf6,stroke:#a78bfa,color:#fff
+    style DASH fill:#3b82f6,stroke:#60a5fa,color:#fff
+```
+
+<!-- ─── Social Proof ─────────────────────────────────────────────────────────── -->
+
+> *"He demonstrated strong ownership on our IoT platform — delivering reliable, scalable full stack work across frontend, backend, and real-time systems while supporting production stability."*
+>
+> **Allaa Eddine Ikhlef** · Direct Manager · Stratosfy · [LinkedIn ↗](https://www.linkedin.com/in/aitha-venkata-subbaiah-setty/details/recommendations/)
+
+<!-- ─── Engineering Depth ────────────────────────────────────────────────────── -->
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**⚡ Latency Optimization**  
+Sub-100ms API paths via MongoDB schema design & aggregation tuning.
+
+</td>
+<td width="33%" valign="top">
+
+**📡 Realtime Reliability**  
+Socket-driven flows with reconnect-safe patterns & scalable message persistence.
+
+</td>
+<td width="33%" valign="top">
+
+**🛡️ Production Quality**  
+80%+ coverage · CI/CD automation · robust API validation at every layer.
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<!-- ─── Featured Repos (live GitHub cards) ───────────────────────────────────── -->
+
+### 🚀 Featured Work
+
+<div align="center">
+
+[![Flowboard](https://github-readme-stats.vercel.app/api/pin/?username=VenkataSubbaiah5022&repo=Task-Management-System&theme=react&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=6366f1&text_color=c9d1d9&border_radius=12)](https://github.com/VenkataSubbaiah5022/Task-Management-System)
+[![Timesheet](https://github-readme-stats.vercel.app/api/pin/?username=VenkataSubbaiah5022&repo=Timesheet-Management-System&theme=react&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=6366f1&text_color=c9d1d9&border_radius=12)](https://github.com/VenkataSubbaiah5022/Timesheet-Management-System)
+
+[![Jarvis AI](https://github-readme-stats.vercel.app/api/pin/?username=VenkataSubbaiah5022&repo=AI-Powered-Voice-Genie&theme=react&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=6366f1&text_color=c9d1d9&border_radius=12)](https://github.com/VenkataSubbaiah5022/AI-Powered-Voice-Genie)
+[![Real-Time Chat](https://github-readme-stats.vercel.app/api/pin/?username=VenkataSubbaiah5022&repo=Real-Time-Chat-Application&theme=react&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=6366f1&text_color=c9d1d9&border_radius=12)](https://github.com/VenkataSubbaiah5022/Real-Time-Chat-Application)
+
+</div>
+
+<table>
+<tr>
+<td align="center"><a href="https://flowboard-system.vercel.app/"><b>Flowboard</b></a><br/><sub>Next.js · Prisma · Pusher · Turborepo</sub></td>
+<td align="center"><a href="https://timesheet-management-system-sage.vercel.app/"><b>Timesheet</b></a><br/><sub>React · TypeScript · Role workflows</sub></td>
+<td align="center"><a href="https://ai-voice-genie.vercel.app/"><b>Jarvis AI</b></a><br/><sub>Python · NLP · <a href="https://zenodo.org/records/15123556">Zenodo ↗</a></sub></td>
+<td align="center"><a href="https://github.com/VenkataSubbaiah5022/Real-Time-Chat-Application"><b>Chat App</b></a><br/><sub>Socket.io · MERN · AWS EC2</sub></td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://venkata-fullstack.vercel.app/projects"><b>→ Explore all projects on portfolio</b></a>
+</p>
+
+<!-- ─── Tech Stack (animated) ────────────────────────────────────────────────── -->
+
+### 🛠️ Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,angular,nodejs,express,py,prisma,mongodb,postgres,mysql,redis,docker,gcp,aws,flutter,rn,git,github,actions,jest,postman,nginx,vercel&perline=13&theme=dark" alt="Tech stack" />
+
+<br /><br />
+
+**AI-augmented workflow:** Cursor · Claude Code · GitHub Copilot · OpenAI API · Claude API · Vercel AI SDK
+
+</div>
+
+<!-- ─── Experience (collapsible) ─────────────────────────────────────────────── -->
+
+<details open>
+<summary><b>💼 Experience Timeline</b></summary>
+<br />
+
+**Full Stack Developer** · [**Stratosfy**](https://login.genius.stratosfy.io/) · `Apr 2025 – Mar 2026` · Remote (Ottawa)
+
+```
+▸ 19+ microservices · Node.js · TypeScript · production IoT monitoring
+▸ 20+ REST APIs for telemetry ingestion & operational dashboards
+▸ Shipped to live apps → Play Store · App Store · Genius Platform
+▸ 70% downtime reduction via data modelling & aggregation optimisations
+▸ 80%+ Jest coverage · GitHub Actions CI/CD · Docker · GCP
+```
+
+**Backend Developer Intern** · R K Microns · `May – Oct 2024`
+
+```
+▸ Python pipelines for AI defect detection · +35% accuracy
+▸ Reduced manual inspection by 2 hrs/day across 10+ operators
+▸ Realtime visualization with Flutter frontend teams
+```
+
+**Computer Science Subject Expert** · Chegg · `Sep 2023 – Mar 2026`
+
+```
+▸ 500+ queries · DSA · DBMS · OS · SQL · Java · Python
+```
+
+</details>
+
+<details>
+<summary><b>🏅 Certifications & Credentials</b></summary>
+<br />
+
+| Credential | Issuer | Verify |
+| :--- | :--- | :---: |
+| Frontend Developer (React) | HackerRank | [↗](https://www.hackerrank.com/certificates/iframe/019f73606e1a) |
+| API Fundamentals Student Expert | Postman | [↗](https://badges.parchment.com/public/assertions/XfiBS4qWSvmFUcQTyODrqA) |
+| MongoDB Core Concepts & Architecture | MongoDB University | [↗](https://www.credly.com/badges/79fe32e9-a931-4767-a509-c84d77ff8e50/public_url) |
+| AWS Cloud 101 · Serverless · Storage | AWS Educate | [↗](https://www.credly.com/badges/e9a32439-1330-4600-a2eb-5ef09f35171d/public_url) |
+| Python for Data Science | IBM | [↗](https://www.credly.com/badges/10bb27bf-4852-4aba-853c-264558e30c19/public_url) |
+| Flutter & Dart Certification | Google | — |
+| Cloud Computing · IoT | NPTEL (IIT) | — |
+| JavaScript — Unlocking the Power | Scaler Topics | [↗](https://moonshot.scaler.com/s/sl/YX5O1t3Aoo) |
+
+<a href="https://venkata-fullstack.vercel.app/certifications"><b>→ View all 20+ certifications</b></a>
+
+</details>
+
+<!-- ─── GitHub Analytics ─────────────────────────────────────────────────────── -->
+
+### 📊 GitHub Pulse
+
+<div align="center">
+
+<!-- 3D Contribution Profile -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-3d-contributions.vercel.app/profile/3d/VenkataSubbaiah5022?theme=nuclear&background=0d1117&size=normal&height=180&width=900&no_title=true&no_avatar=true&no_border=true&no_footer=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-3d-contributions.vercel.app/profile/3d/VenkataSubbaiah5022?theme=gray&background=ffffff&size=normal&height=180&width=900&no_title=true&no_avatar=true&no_border=true&no_footer=true" />
+  <img alt="3D GitHub contributions" src="https://github-profile-3d-contributions.vercel.app/profile/3d/VenkataSubbaiah5022?theme=nuclear&background=0d1117&size=normal&height=180&width=900&no_title=true&no_avatar=true&no_border=true&no_footer=true" />
+</picture>
+
+<br /><br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VenkataSubbaiah5022&theme=nord_dark" alt="Profile details" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VenkataSubbaiah5022&theme=nord_dark" alt="Repos per language" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VenkataSubbaiah5022&theme=nord_dark" alt="Most commit language" height="180" />
+
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VenkataSubbaiah5022&theme=nord_dark" alt="Stats" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VenkataSubbaiah5022&theme=nord_dark&utcOffset=5.5" alt="Productive time IST" height="165" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VenkataSubbaiah5022&theme=react&hide_border=true&area=true&custom_title=Contribution+Graph&bg_color=0d1117&color=818cf8&line=6366f1&point=a78bfa" width="100%" alt="Contribution graph" />
+
+<br /><br />
+
+<!-- Contribution Snake (auto-generated via GitHub Action) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VenkataSubbaiah5022/VenkataSubbaiah5022/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VenkataSubbaiah5022/VenkataSubbaiah5022/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/VenkataSubbaiah5022/VenkataSubbaiah5022/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<br /><br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=VenkataSubbaiah5022&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="GitHub trophies" />
+
+</div>
+
+<!-- ─── Connect ──────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+### 🤝 Let's build something great
+
+Looking for **product teams** and **backend-heavy roles** — full-time, remote, or contract.
+
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aitha--venkata--subbaiah--setty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aitha-venkata-subbaiah-setty/)
 [![Email](https://img.shields.io/badge/Email-venkatasubbaiah5022@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatasubbaiah5022@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-181717?style=for-the-badge&logo=github&logoColor=white)](https://venkata-fullstack.vercel.app/resume.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-venkata--fullstack.vercel.app-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://venkata-fullstack.vercel.app/)
+[![Zenodo](https://img.shields.io/badge/Research-Zenodo-1682D4?style=for-the-badge&logo=zenodo&logoColor=white)](https://zenodo.org/records/15123556)
 
-<br />
+<br /><br />
 
-🟢 **Available now** · Full-time · Remote · Hyderabad · Open to Bangalore
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=2000&color=6366f1&center=true&width=500&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Let's+connect+and+build." alt="Footer typing" />
 
-</div>
-
----
-
-## About
-
-Full-stack engineer based in **Hyderabad, India**, specialising in **scalable backends**, **polished interfaces**, and **AI-powered products**. I ship production software — IoT monitoring platforms, real-time systems, and workflow tools — with **1.5+ years** of hands-on experience.
-
-Currently building the intelligence layer at [**Stratosfy**](https://login.genius.stratosfy.io/) — a smart refrigeration & IoT monitoring platform — where I develop **19+ Node.js microservices**, telemetry pipelines, and Genius dashboards with **80%+ Jest coverage** and GitHub Actions CI/CD.
-
-> I combine software engineering and AI to build products that are **efficient, scalable, and genuinely useful**.
-
----
-
-## Impact at a Glance
-
-| Metric | Detail |
-| :--- | :--- |
-| **Microservices** | 19+ production Node.js / TypeScript services |
-| **APIs Shipped** | 20+ REST endpoints for telemetry & dashboards |
-| **Reliability** | 70% downtime reduction via data model optimisations |
-| **Quality** | 80%+ Jest coverage · GitHub Actions CI/CD |
-| **Experience** | 1.5+ years · IoT · Real-time · SaaS |
-| **Education** | B.Tech CSE (Business Systems) · RGMCET · CGPA 8.01 |
-
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Flowboard](https://flowboard-system.vercel.app/)
-**Kanban workspace with real-time collaboration**
-
-`Next.js` `TypeScript` `Prisma` `Pusher` `Turborepo`
-
-JWT role-based access · dnd-kit Kanban · optimistic updates · live sync across teammates
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-6366f1?style=flat-square&logo=vercel)](https://flowboard-system.vercel.app/)
-[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/VenkataSubbaiah5022/Task-Management-System)
-
-</td>
-<td width="50%" valign="top">
-
-### [Timesheet Management System](https://timesheet-management-system-sage.vercel.app/)
-**Role-based time tracking & approvals**
-
-`React` `TypeScript` `Tailwind` `REST APIs`
-
-Employee → Manager workflows · productivity dashboards · CSV/PDF reporting
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-6366f1?style=flat-square&logo=vercel)](https://timesheet-management-system-sage.vercel.app/)
-[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/VenkataSubbaiah5022/Timesheet-Management-System)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Jarvis AI Assistant](https://ai-voice-genie.vercel.app/)
-**Voice-first AI automation platform**
-
-`Python` `NLP` `Speech Recognition` `TTS`
-
-Hands-free task automation · Gmail, WhatsApp, YouTube integrations · [**Published on Zenodo**](https://zenodo.org/records/15123556)
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-6366f1?style=flat-square&logo=vercel)](https://ai-voice-genie.vercel.app/)
-[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/VenkataSubbaiah5022/AI-Powered-Voice-Genie)
-
-</td>
-<td width="50%" valign="top">
-
-### [Real-Time Chat Application](https://github.com/VenkataSubbaiah5022/Real-Time-Chat-Application)
-**Low-latency messaging with persistence**
-
-`MERN` `Socket.io` `MongoDB` `AWS EC2`
-
-10K+ messages handled · sub-50ms delivery · typing indicators · cursor-based pagination
-
-[![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/VenkataSubbaiah5022/Real-Time-Chat-Application)
-
-</td>
-</tr>
-</table>
-
-👉 [**View all projects on my portfolio →**](https://venkata-fullstack.vercel.app/projects)
-
----
-
-## Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Frontend**
-<br />
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**Backend & Data**
-<br />
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**Cloud, DevOps & AI**
-<br />
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td valign="top" colspan="3">
-
-**Mobile:** `React Native` · `Expo` · `Flutter` &nbsp;|&nbsp; **Tools:** `Git` · `Postman` · `NGINX` · `Prisma` · `Vercel AI SDK`
-
-</td>
-</tr>
-</table>
-
----
-
-## Experience
-
-**Full Stack Developer** · [Stratosfy](https://login.genius.stratosfy.io/) · *Apr 2025 – Mar 2026 · Remote (Ottawa)*
-
-- Developed **19+ microservices** with Node.js & TypeScript for production IoT monitoring
-- Built **20+ REST APIs** for telemetry ingestion and operational dashboards
-- Deployed features to live Stratosfy mobile apps ([Play Store](https://play.google.com/store/apps/details?id=io.stratosfy.tempgenie) · [App Store](https://apps.apple.com/ca/app/stratosfy/id1573760988)) and the Genius platform
-- Reduced system downtime by **70%** through data modelling and aggregation optimisations
-
-**Backend Developer Intern** · R K Microns · *May – Oct 2024*
-
-- Python backend pipelines for AI-based defect detection · **35% accuracy improvement**
-
-**Computer Science Subject Expert** · Chegg · *Sep 2023 – Mar 2026*
-
-- 500+ CS queries across DSA, DBMS, OS, SQL, Java, and Python
-
----
-
-## Certifications
-
-| Credential | Issuer |
-| :--- | :--- |
-| Frontend Developer (React) | [HackerRank](https://www.hackerrank.com/certificates/iframe/019f73606e1a) |
-| API Fundamentals Student Expert | [Postman](https://badges.parchment.com/public/assertions/XfiBS4qWSvmFUcQTyODrqA) |
-| MongoDB Core Concepts & Architecture | [MongoDB University](https://www.credly.com/badges/79fe32e9-a931-4767-a509-c84d77ff8e50/public_url) |
-| AWS Cloud 101 · Serverless · Storage | [AWS Educate](https://www.credly.com/badges/e9a32439-1330-4600-a2eb-5ef09f35171d/public_url) |
-| Python for Data Science | [IBM / Credly](https://www.credly.com/badges/10bb27bf-4852-4aba-853c-264558e30c19/public_url) |
-| Flutter & Dart Certification | Google |
-| Cloud Computing · IoT | NPTEL (IIT) |
-
-👉 [**View all 20+ certifications →**](https://venkata-fullstack.vercel.app/certifications)
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VenkataSubbaiah5022&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="165" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VenkataSubbaiah5022&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataSubbaiah5022&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VenkataSubbaiah5022&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution graph" />
-
-</div>
-
----
-
-## Let's Connect
-
-I'm open to **full-time**, **remote**, and **contract** opportunities — especially product teams and backend-heavy roles.
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-venkata--fullstack.vercel.app-6366f1?style=for-the-badge)](https://venkata-fullstack.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aitha-venkata-subbaiah-setty/)
-[![GitHub](https://img.shields.io/badge/GitHub-VenkataSubbaiah5022-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VenkataSubbaiah5022)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatasubbaiah5022@gmail.com)
-
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:3b82f6&height=100&section=footer" width="100%" alt="Footer banner" />
-  <br />
-  <sub>Thanks for stopping by — let's build something great together.</sub>
 </div>
