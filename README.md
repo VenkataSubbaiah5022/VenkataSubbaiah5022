@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:4338ca,100:6366f1&height=110&section=header&text=Aitha%20Venkata%20Subbaiah&fontSize=30&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20IoT%20%26%20Real-time%20Systems&descSize=13&descAlignY=58&descAlign=50&animation=fadeIn&width=760" alt="Aitha Venkata Subbaiah — Full Stack Engineer" width="760" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:4338ca,100:6366f1&height=110&section=header&text=Aitha%20Venkata%20Subbaiah&fontSize=30&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20IoT%20%7C%20Real-time%20Systems&descSize=13&descAlignY=58&descAlign=50&animation=fadeIn&width=760" alt="Aitha Venkata Subbaiah — Full Stack Engineer" width="760" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=A5B4FC&center=true&vCenter=true&multiline=true&repeat=true&width=520&lines=Full+Stack+Engineer;IoT+%C2%B7+Real-time+%C2%B7+AI-powered+products;19%2B+microservices+%C2%B7+20%2B+production+APIs" alt="Typing headline" width="520" />
 
